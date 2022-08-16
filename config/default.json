@@ -1,0 +1,33 @@
+{
+  "db": {
+    "version": "v1",
+    "CvPath": "CvData"
+  },
+  "env": "dev",
+  "socialOptions": [
+    {
+      "className": "fa-github",
+      "name": "GitHub"
+    },
+    {
+      "className": "fa-linkedin",
+      "name": "LinkedIn"
+    },
+    {
+      "className": "fa-facebook",
+      "name": "FaceBook"
+    },
+    {
+      "className": "fa-instagram",
+      "name": "Instagram"
+    },
+    {
+      "className": "fa-twitter",
+      "name": "Twitter"
+    },
+    {
+      "className": "fa-twitch",
+      "name": "TwitchTV"
+    }
+  ]
+}
